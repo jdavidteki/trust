@@ -1,1 +1,3 @@
 # trust
+
+**emtion as code
